@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tree-view-menu-recursion/static/css/main.6c98d484.css",
+    "main.js": "/tree-view-menu-recursion/static/js/main.77cb62bc.js",
+    "static/media/logo.svg": "/tree-view-menu-recursion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tree-view-menu-recursion/index.html",
+    "main.6c98d484.css.map": "/tree-view-menu-recursion/static/css/main.6c98d484.css.map",
+    "main.77cb62bc.js.map": "/tree-view-menu-recursion/static/js/main.77cb62bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c98d484.css",
+    "static/js/main.77cb62bc.js"
+  ]
+}
